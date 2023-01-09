@@ -1,1 +1,3 @@
-TinDog Starting Files
+#TinDog-Website
+
+Static "TinDog Website" using HTML, CSS and Bootstrap
