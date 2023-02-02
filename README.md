@@ -21,3 +21,15 @@ HTML is an acronym which stands for Hyper Text Markup Language which is used for
 CSS stands for Cascading Style Sheets. It is a style sheet language which is used to describe the look and formatting of a document written in markup language. It provides an additional feature to HTML. It is generally used with HTML to change the style of web pages and user interfaces. It can also be used with any kind of XML documents including plain XML, SVG and XUL.
 
 CSS is used along with HTML and JavaScript in most websites to create user interfaces for web applications and user interfaces for many mobile applications.
+
+
+---
+
+># **`What is Bootstrap?`**
+
+- Bootstrap is the most popular HTML, CSS and JavaScript framework for developing a responsive and mobile friendly website.
+- It is absolutely free to download and use.
+- It is a front-end framework used for easier and faster web development.
+- It includes HTML and CSS based design templates for typography, forms, buttons, tables, navigation, modals, image carousels and many others.
+- It can also use JavaScript plug-ins.
+- It facilitates you to create responsive designs.
